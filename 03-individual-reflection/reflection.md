@@ -6,7 +6,7 @@
 
 - Họ và tên: Phùng Đình Triển
 - Mã học viên:20A202602837
-- Nhóm: Zone 2B
+- Nhóm: Zone B2.5
 - Candidate problem nhóm chọn: Học viên K4B mất khoảng 70-90 phút trước mỗi buổi lab để tìm và tổng hợp kiến thức trọng tâm trong kho    tài liệu V-Learn, khiến việc chuẩn bị bài thiếu nhất quán và dễ bỏ sót phần cần áp dụng.
 ---
 
